@@ -586,6 +586,7 @@ font-size: 0.8rem;
    }
    .about-us__content{
     max-width: fit-content;
+    padding: 0 10px;
    }
    .about-us__title{
     line-height: 60px;
@@ -640,6 +641,9 @@ font-size: 0.8rem;
     0%{width: 400px; height: 400px;}
     50%{width: 450px;height: 450px;}
     100%{width: 400px; height: 400px;}
+}
+.difference__item{
+    gap: 3rem;
 }
 }
 
